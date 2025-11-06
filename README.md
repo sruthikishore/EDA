@@ -1,7 +1,3 @@
-NAME: CK Sruthi Shree
-DOMAIN: Data Analytics
-
-
 Overview of Exploratory Data Analysis (EDA)
 
 Objectives of EDA
