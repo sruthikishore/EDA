@@ -1,10 +1,5 @@
 NAME: CK Sruthi Shree
-COMPANY: CODTECH IT SOLUTIONS
-ID: CT08DS1762
 DOMAIN: Data Analytics
-DURATION: June to July 2024
-
-
 
 
 Overview of Exploratory Data Analysis (EDA)
